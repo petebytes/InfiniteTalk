@@ -1,5 +1,5 @@
-# Model weights
-weights/
+# Model weights (symlink to external storage)
+weights
 
 # Python
 __pycache__/
